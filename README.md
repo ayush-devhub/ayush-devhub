@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ayush 👋  
 
-<!--
-**ayush-devhub/ayush-devhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ NIT Raipur  
+💻 Aspiring Backend Engineer | Java & Spring Boot  
+🚀 Currently building conceptual projects & solving DSA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, Docker, IntelliJ IDEA  
+
+---
+
+## 🌱 Currently Learning
+- Deepening Java & Spring skills  
+- Exploring REST APIs and System Design  
+
+---
+
+## 📌 Projects
+- Coming soon...
+
+---
+
+## 📊 GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Fact
+I believe in **compounding skills** – small consistent efforts lead to big results.
