@@ -5,7 +5,7 @@
 🚀 Currently building conceptual projects & solving DSA  
 
 ## 🛠 Tech Stack
-- **Languages:** Java, JavaScript, SQL  
+- **Languages:** Java, SQL  
 - **Frameworks:** Spring Boot, Hibernate  
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Git, Docker, IntelliJ IDEA  
