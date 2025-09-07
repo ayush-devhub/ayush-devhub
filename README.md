@@ -4,6 +4,13 @@
 💻 Aspiring Backend Engineer | Java & Spring Boot  
 🚀 Currently building conceptual projects & solving DSA  
 
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayush-devhub?theme=dark&font=Sansita%20Swashed)
+
+## 📊 GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 ## 🛠 Tech Stack
 - **Languages:** Java, SQL  
 - **Frameworks:** Spring Boot, Hibernate  
@@ -17,9 +24,7 @@
 ## 📌 Projects
 - Coming soon...
 
-## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ## ✨ Fun Fact
 I believe in **compounding skills** – small consistent efforts lead to big results.
