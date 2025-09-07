@@ -8,8 +8,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayush-devhub?theme=radical)
 
 ## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![ayush-devhub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush-devhub&theme=radical&hide_border=false)
+![ayush-devhub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devhub&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ## 🛠 Tech Stack
 - **Languages:** Java, SQL  
