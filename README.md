@@ -5,7 +5,7 @@
 🚀 Currently building conceptual projects & solving DSA  
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayush-devhub?theme=dark&font=Sansita%20Swashed)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayush-devhub?theme=radical)
 
 ## 📊 GitHub Stats
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
