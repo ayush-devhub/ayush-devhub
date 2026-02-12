@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush! 
 
-### 🚀 Just a Django Developer | Backend Enthusiast | Intern @ [Company Name]
+### 🚀 Just a Django Developer | Backend Enthusiast
 
 I’m a passionate backend developer currently honing my skills in building scalable web applications. My current focus is mastering **Django** and **PostgreSQL**.
 
